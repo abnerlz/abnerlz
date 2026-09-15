@@ -72,7 +72,7 @@ Meu objetivo é evoluir não apenas como desenvolvedor, mas também compreender 
 
 ### 🔗 | LET'S CONNECT
 
-<a href="https://www.linkedin.com/in/abner-oliveira-34680528a/" target="_blank">
+<a href="https://www.linkedin.com/in/abnerlz/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Abner%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
